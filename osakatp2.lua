@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/luacoder312/OskaTP2/refs/heads/main/osakatp2.lua"))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SenhorLDS/ProjectLDSHUB/refs/heads/main/Loader%20LDS%20HUB'))()
